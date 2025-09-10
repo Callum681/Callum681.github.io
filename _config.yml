@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Callum Shaw — Economist and Data Scientist"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Callum Shaw"
+description              : &description "I am a PhD candidate in Economics at the London School of Economics, specializing in political economy, applied econometrics, and the economics of digital platforms. My research combines large-scale media engagement data with tools from causal inference, structural modeling, and natural language processing to study how social networks and algorithmic curation shape political polarization and the spread of misinformation. My job market paper, 'Quantifying Echo Chambers and Their Impact on News Engagement: Evidence from a Facebook Algorithm Update', develops new methods to measure network homophily and shows how algorithmic changes amplify tribalism and misinformation online. Beyond academia, I have professional experience as a Data Scientist at Quantco, where I worked on algorithmic pricing models, and as an Economist at Amazon, where I applied causal inference to decision science problems. I also have 3 years of work experience prior to my PhD in digital marketing and management consultancy."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://Callum681.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
