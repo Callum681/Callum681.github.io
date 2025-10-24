@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Callum Shaw — Economist and Data Scientist"
+title                    : "Callum Shaw"
 title_separator          : "-"
 name                     : &name "Callum Shaw"
 description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
