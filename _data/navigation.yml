@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: /files/Callum_Shaw_CV.pdf
 
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "Job Market Paper"
+    url: /files/Callum_Shaw_JMP.pdf
     
   # - title: "Guide"
   #   url: /markdown/
